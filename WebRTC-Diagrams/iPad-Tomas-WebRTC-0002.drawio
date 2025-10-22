@@ -121,7 +121,7 @@
         <mxCell id="H90IOBidcp6N6zG3w12x-37" value="socket.io emit: &quot;CALL_ACCEPTED&quot;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="565.5" y="380" as="sourcePoint" />
-            <mxPoint x="375.99999999999983" y="380" as="targetPoint" />
+            <mxPoint x="380" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H90IOBidcp6N6zG3w12x-38" value="didCallAccepted()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="H90IOBidcp6N6zG3w12x-36">
